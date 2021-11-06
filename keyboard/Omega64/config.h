@@ -35,7 +35,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define NKRO_EPSIZE 28 /* 键盘NKRO端点大小，请不要修改 */
 
 // 定义Bootmagic按键
-#define BOOTMAGIC_KEY_BOOT KC_U /* 开机 */
+#define BOOTMAGIC_KEY_BOOT KC_R /* 开机 */
 #define BOOTMAGIC_KEY_ERASE_BOND KC_E /* 删除所有绑定 */
 
 // 键盘省电参数
